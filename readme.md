@@ -30,6 +30,23 @@ Follows an 8px grid with a 4px baseline grid.
   * margins: 64px
   * gutters: 32px
 
+## Colors
+
+A basic palette of ten colors, with five shades of gray used as default container fills. Four action colors (red, blue, green, and yellow) are reserved for cases where additional contrast / visibility in the wireframe is needed.
+
+```
+$color-action-red: #F44336;
+$color-action-green: #4CAF50;
+$color-action-blue: #2196F3;
+$color-action-yellow: #FFEB3B;
+$color-gray-10: #E0E0E0;
+$color-gray-20: #C7C7C7;
+$color-gray-40: #959595;
+$color-gray-60: #646464;
+$color-gray-90: #181818;
+$color-white: #FFFFFF;
+```
+
 ## Typography
 
 Base font size set to 16px, line height of 1.5 and scale factor of 1.618.
