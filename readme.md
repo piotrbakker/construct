@@ -57,7 +57,7 @@ Base font size set to 16px, line height of 1.5 and scale factor of 1.618.
 
 ```
 body {
-  font-family: Menlo;
+  font-family: Menlo, Fira Code, monospace;
   font-size: 16px;
   line-height: 24px;
 }
