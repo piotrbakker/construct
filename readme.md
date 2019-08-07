@@ -7,7 +7,7 @@ Grab the [Sketch](https://sketch.cloud/s/zzLYM) or [Figma](https://www.figma.com
 
 ## Artboards / Frames
 
-Includes four artboards:
+Includes four artboards / frames:
 * 360px
 * 768px
 * 1280px
@@ -36,19 +36,19 @@ Follows an 8px grid with a 4px baseline grid.
 
 ## Colors
 
-A basic palette of ten colors, with five shades of gray used as default container fills. Four action colors (red, blue, green, and yellow) are reserved for cases where additional contrast / visibility in the wireframe is needed.
+Includes five shades of gray + white used as default background fills as well as four basic hues (red, blue, green, and yellow) for additional contrast and visibility.
 
 ```
-$color-action-red: #F44336;
-$color-action-green: #4CAF50;
-$color-action-blue: #2196F3;
-$color-action-yellow: #FFEB3B;
-$color-gray-10: #E0E0E0;
-$color-gray-20: #C7C7C7;
-$color-gray-40: #959595;
-$color-gray-60: #646464;
-$color-gray-90: #181818;
+$color-red: #FF0000;
+$color-green: #008000;
+$color-blue: #0000FF;
+$color-yellow: #FFFF00;
 $color-white: #FFFFFF;
+$color-gray-10: #EEEEEE;
+$color-gray-20: #BDBDBD;
+$color-gray-60: #757575;
+$color-gray-80: #424242;
+$color-gray-90: #212121;
 ```
 
 ## Typography
