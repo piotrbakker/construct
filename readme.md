@@ -1,9 +1,9 @@
-## Wires
+## Wirez
 Starter file for wireframe design systems.
 
 ## Getting started
 
-Grab the [Sketch](https://sketch.cloud/s/zzLYM) or [Figma](https://www.figma.com/file/WV7JaXV0jkEKQxCaWUz7XN/wires) files in order to get started.
+Grab the [Sketch](https://sketch.cloud/s/zzLYM) or [Figma](https://www.figma.com/file/WV7JaXV0jkEKQxCaWUz7XN) files in order to get started.
 
 ## Artboards / Frames
 
