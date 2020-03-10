@@ -1,4 +1,4 @@
-## Wirez
+# Wirez
 Starter file for wireframe design systems.
 
 ## Getting started
@@ -91,3 +91,6 @@ h4 {
   text-transform: uppercase;
 }
 ```
+## License
+
+Wirez is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
