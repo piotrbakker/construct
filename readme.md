@@ -1,5 +1,9 @@
 # Wirez
-Starter file for wireframe design systems.
+Wirez is a starter file for wireframe design systems.
+
+It combines a strict, grid-based structure with a brutalist aesthetic to help you create professional yet unmistakably disposable wireframe designs.
+
+What you get: an 8-point layout grid, basic fills and type styles, along with a set of geometric icons and input controls. Use them as the basis for your own wireframe design system.
 
 ## Getting started
 
