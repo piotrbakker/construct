@@ -9,9 +9,9 @@ What you get: an 8-point layout grid, basic fills and type styles, along with a 
 
 To get started duplicate the Wirez Kit file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
 
-## Artboards / Frames
+## Layout grid
 
-Includes four artboards / frames:
+Comes with a layout grid for four viewport widths:
 * 360px
 * 768px
 * 1280px
