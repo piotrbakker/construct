@@ -42,16 +42,16 @@ Frames are configured with an 8-point layout grid and a 4-point baseline grid:
 Includes five shades of gray + white used as default background fills as well as four basic hues (red, blue, green, and yellow) for additional contrast and visibility.
 
 ```
-$color-red: #FF0000;
-$color-green: #008000;
-$color-blue: #0000FF;
-$color-yellow: #FFFF00;
-$color-white: #FFFFFF;
-$color-gray-10: #EEEEEE;
-$color-gray-20: #BDBDBD;
-$color-gray-60: #757575;
-$color-gray-80: #424242;
-$color-gray-90: #212121;
+$hue-red: #FF0000;
+$hue-green: #008000;
+$hue-blue: #0000FF;
+$hue-yellow: #FFFF00;
+$gray-00: #FFFFFF;
+$gray-10: #EEEEEE;
+$gray-20: #BDBDBD;
+$gray-60: #757575;
+$gray-80: #424242;
+$gray-90: #212121;
 ```
 
 ## Typography
