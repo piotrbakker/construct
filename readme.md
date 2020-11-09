@@ -7,7 +7,7 @@ What you get: an 8-point layout grid, basic fills and type styles, along with a 
 
 ## Getting started
 
-Grab the [Sketch](https://sketch.cloud/s/zzLYM) or [Figma](https://www.figma.com/community/file/822440764002706075/Wirez) files in order to get started.
+To get started duplicate the Wirez Kit file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
 
 ## Artboards / Frames
 
