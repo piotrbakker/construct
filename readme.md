@@ -3,38 +3,37 @@ Wirez is a starter file for wireframe design systems.
 
 It combines a strict, grid-based structure with a brutalist aesthetic to help you create professional yet unmistakably disposable wireframe designs.
 
-What you get: an 8-point layout grid, basic fills and type styles, along with a set of geometric icons and input controls. Use them as the basis for your own wireframe design system.
+What you get: an 8-point layout grid, basic fills and type styles, along with a set of geometric icons and input controls. Use them as the building blocks for your own wireframe design system.
 
 ## Getting started
 
 To get started duplicate the Wirez Kit file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
 
-## Layout grid
+## Layout
 
-Comes with a layout grid for four viewport widths:
+Includes frames for the following viewport widths:
+
 * 360px
 * 768px
 * 1280px
 * 1440px
 
-## Layout
-
-Follows an 8px grid with a 4px baseline grid.
+Frames are configured with an 8-point layout grid and a 4-point baseline grid:
 
 * 360px
-  * columns: 4 / 60px
+  * columns: 4 @ 60px
   * margins: 24px
   * gutters: 24px
-* 768pt
-  * columns: 8 / 76px
+* 768px
+  * columns: 8 @ 76px
   * margins: 24px
   * gutters: 16px
-* 1280pt
-  * columns: 12 / 88px
+* 1280px
+  * columns: 12 @ 88px
   * margins: 24px
   * gutters: 16px
-* 1440pt
-  * columns: 12 / 80px
+* 1440px
+  * columns: 12 @ 80px
   * margins: 64px
   * gutters: 32px
 
