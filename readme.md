@@ -3,7 +3,7 @@ Wirez is a starter file for wireframe design systems.
 
 It combines a strict, grid-based structure with a brutalist aesthetic to help you create professional yet unmistakably disposable wireframe designs.
 
-What you get: an 8-point layout grid, basic fills and type styles, along with a set of geometric icons and input controls. Use them as the building blocks for your own wireframe design system.
+What you get: an 8-point layout grid, basic fills and type styles, along with a set of crude line icons and input controls. Use them as the building blocks for your own wireframe design system.
 
 ## Getting started
 
@@ -39,19 +39,19 @@ Frames are configured with an 8-point layout grid and a 4-point baseline grid:
 
 ## Colors
 
-Includes five shades of gray + white used as default background fills as well as four basic hues (red, blue, green, and yellow) for additional contrast and visibility.
+There are 10 background fills: 6 achromatic grayscale shades (including white) and 4 basic hues (red, blue, green, and yellow) for additional contrast and visibility.
 
 ```
 $hue-red: #FF0000;
 $hue-green: #008000;
 $hue-blue: #0000FF;
 $hue-yellow: #FFFF00;
-$gray-00: #FFFFFF;
-$gray-10: #EEEEEE;
-$gray-20: #BDBDBD;
-$gray-60: #757575;
-$gray-80: #424242;
-$gray-90: #212121;
+$grayscale-000: #FFFFFF;
+$grayscale-080: #EAEAEA;
+$grayscale-200: #CCCCCC;
+$grayscale-400: #999999;
+$grayscale-600: #666666;
+$grayscale-800: #333333;
 ```
 
 ## Typography
