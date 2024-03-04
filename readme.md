@@ -1,5 +1,5 @@
-# Wirez
-Wirez is a starter file for wireframe design systems.
+# Construct
+Construct is a starter file for wireframe design systems.
 
 It combines a strict, grid-based structure with a brutalist aesthetic to help you create professional yet unmistakably disposable wireframe designs.
 
@@ -7,7 +7,7 @@ What you get: an 8-point layout grid, basic fills and type styles, along with a 
 
 ## Getting started
 
-To get started duplicate the Wirez file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
+To get started duplicate the Construct file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
 
 ## Layout
 
@@ -96,4 +96,4 @@ h4 {
 ```
 ## License
 
-Wirez is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
+Construct is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
