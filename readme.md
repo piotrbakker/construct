@@ -7,7 +7,7 @@ What you get: an 8-point layout grid, basic fills and type styles, along with a 
 
 ## Getting started
 
-To get started duplicate the Construct file available on [Figma Community](https://www.figma.com/community/file/822440764002706075/Wirez). 
+To get started duplicate the Construct file available on [Figma Community](https://www.figma.com/community/file/822440764002706075). 
 
 ## Layout
 
